@@ -6,3 +6,5 @@ This is a script that can analyse basic server performance stats. You should be 
 <p>Total disk usage (Free vs Used including percentage)</p>
 <p>Top 5 processes by CPU usage</p>
 <p>Top 5 processes by memory usage</p>
+
+https://roadmap.sh/projects/server-stats
